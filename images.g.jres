@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAAAAAA/2Zm/wDw//BmZmZm///48GZmZmaPiPhvZv9vb/aI+G9mZmZv9v//b2ZmZm/2//9vZv9vb/aI+PBmZmZmj4j48GZmZmb///gA/2Zm/wDw/wAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player"
+    },
+    "image3": {
+        "data": "hwQPAA8AAAD/////////D/////////8P/xERERER8Q//ERERERHxD/8REREREfEP/xERERER8Q//ERERERHxD/8REREREfEP/xERERER8Q//ERERERHxD/8REREREfEP/xERERER8Q//ERERERHxD/////////8P/////////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "TextBox"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
